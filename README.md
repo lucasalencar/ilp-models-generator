@@ -14,8 +14,7 @@ On this project there is the class responsible for the DAO's generation used on 
 
 The project uses a ORM library named [GreenDAO](http://greendao-orm.com/), included on the lib folder.
 
-
 The others sub projects:
-	* ILP Network Models
-	* ILP Network Training
-	* Intelligent Lock Pattern
+*	[ILP Network Models](https://github.com/lucasandre/ilp-network-models)
+*	[ILP Network Training](https://github.com/lucasandre/ilp-network-training)
+*	[Intelligent Lock Pattern](https://github.com/lucasandre/intelligent-lock-pattern)
